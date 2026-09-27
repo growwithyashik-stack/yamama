@@ -1,0 +1,6 @@
+{
+  "name": "Yamama Shawaya",
+  "description": "Authentic Shawaya, Bishavari Rice & Refreshing Mojitos in Perinthalmanna / Angadippuram, Kerala. Refill Your Energy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
